@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.cpp",
+  "scripts": {
+    "start": "hello",
+  },
+  "author": "Brian Hogan",
+  "license": "MIT"
+}
