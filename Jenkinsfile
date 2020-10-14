@@ -11,6 +11,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building...2'
+				sh 'g++ hello main.cpp'
 				sh 'npm start'
             }
         }
