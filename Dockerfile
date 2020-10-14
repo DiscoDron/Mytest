@@ -5,3 +5,4 @@ COPY . .
 RUN npm install
 
 RUN g++ hello main.cpp
+RUN hello
