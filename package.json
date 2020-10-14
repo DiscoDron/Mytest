@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.cpp",
   "scripts": {
-    "start": "hello",
+    "start": "hello"
   },
   "author": "Brian Hogan",
   "license": "MIT"
